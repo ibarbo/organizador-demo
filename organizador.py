@@ -25,7 +25,7 @@ CARPETA = Path("descargas_de_prueba")
 
 # Cada categoría y las extensiones que le pertenecen
 CATEGORIAS = {
-    "Imagenes":    [".jpg", ".jpeg", ".png", ".gif", ".webp", ".heic"],
+    "Imagenes":    [".jpg", ".jpeg", ".png", ".gif", ".webp"],
     "Documentos":  [".pdf", ".docx", ".xlsx", ".pptx", ".txt", ".csv"],
     "Videos":      [".mp4", ".mov", ".avi", ".mkv"],
     "Musica":      [".mp3", ".wav", ".m4a"],
